@@ -1,0 +1,7 @@
+1. For this project you have to install pygame and numpy libraries.
+2. Click any pixel to fix starting point (you'll see choords of starting point in the terminal). 
+3. Click any pixel to fix ending point (you'll see choords of ending point in the terminal). 
+4. To start searching algorithm you have to puch button 1.
+5. To change the maze picture you have to install it in images folder. And then change the link to the image in main.py row 44 (
+        graph = makeMaze(linkToPicture)
+)
